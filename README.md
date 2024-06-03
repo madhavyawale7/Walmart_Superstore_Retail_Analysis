@@ -1,4 +1,16 @@
 # Walmart_Superstore_Retail_Analysis
+
+![walmart](https://github.com/madhavyawale7/Walmart_Superstore_Retail_Analysis/assets/159420665/410c97ef-550b-4697-91a6-71de6f6ee5ad)
+
+
+## Table of Contents
+
+- [Introduction](#Introduction)
+- [DASHBOARDS IMAGE](#DASHBOARDS)
+- [Insight](#Insight)
+- [Excel File](https://docs.google.com/spreadsheets/d/1trgifWN5Ag-CZh9fLO3U9JFPGlrZ8Qm8/edit?usp=sharing&ouid=101727593801684291068&rtpof=true&sd=true
+)
+- [Word Document](https://github.com/madhavyawale7/Healthcare-Analysis/blob/main/Summary%20Report.docx)
 Excel File Link: https://docs.google.com/spreadsheets/d/1trgifWN5Ag-CZh9fLO3U9JFPGlrZ8Qm8/edit?usp=sharing&ouid=101727593801684291068&rtpof=true&sd=true
 
 Project Summary:
