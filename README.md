@@ -19,14 +19,14 @@ Through the implementation of the dynamic dashboard, stakeholders gain a holisti
 
 Overall, this data-driven approach fosters agility, efficiency, and informed decision-making, positioning Walmart Superstore for sustained success in the dynamic retail industry.
 
-# Dashboard:-
+# Dashboard:
 
 ![image](https://github.com/madhavyawale7/Walmart_Superstore_Retail_Analysis/assets/159420665/11a79d56-8144-4e8e-a794-045c7890fd5e)
 ![image](https://github.com/madhavyawale7/Walmart_Superstore_Retail_Analysis/assets/159420665/87280b56-3895-4037-bdd9-07a10f3c5459)
 ![image](https://github.com/madhavyawale7/Walmart_Superstore_Retail_Analysis/assets/159420665/c73d7039-e26a-4e54-b239-ee3270c4d51e)
 ![image](https://github.com/madhavyawale7/Walmart_Superstore_Retail_Analysis/assets/159420665/75791f7e-7990-43ed-b50c-8a7f92e80ea2)
 
-# Insight:-
+# Insight:
 
 Identification of Key Performance Indicators (KPIs): The project focuses on identifying essential KPIs, which are crucial for monitoring and improving performance.
 
