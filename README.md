@@ -6,14 +6,13 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [DASHBOARDS IMAGE](#DASHBOARDS)
+- [DASHBOARDS IMAGE](#Dashboard)
 - [Insight](#Insight)
 - [Excel File](https://docs.google.com/spreadsheets/d/1trgifWN5Ag-CZh9fLO3U9JFPGlrZ8Qm8/edit?usp=sharing&ouid=101727593801684291068&rtpof=true&sd=true
 )
 - [Word Document](https://github.com/madhavyawale7/Healthcare-Analysis/blob/main/Summary%20Report.docx)
-Excel File Link: https://docs.google.com/spreadsheets/d/1trgifWN5Ag-CZh9fLO3U9JFPGlrZ8Qm8/edit?usp=sharing&ouid=101727593801684291068&rtpof=true&sd=true
 
-Project Summary:
+# Introduction:-
 This project focuses on conducting a comprehensive retail analysis of Walmart Superstore's sales and profitability to develop a dynamic dashboard that provides actionable insights for strategic decision-making and operational optimization. The key objectives include identifying key performance indicators (KPIs), analyzing sales and profitability across various dimensions, pinpointing top-performing and underperforming categories, visualizing geographic distribution and market share, understanding the contribution of different sub-categories, evaluating market share by region, and generating category wise metrics.
 
 Through the implementation of the dynamic dashboard, stakeholders gain a holistic view of the store's performance landscape, enabling them to make informed decisions to enhance revenue, profitability, and market competitiveness. The dashboard facilitates quick identification of trends, opportunities, and areas needing improvement, empowering decision-makers to take targeted actions to optimize operations and drive strategic growth.
