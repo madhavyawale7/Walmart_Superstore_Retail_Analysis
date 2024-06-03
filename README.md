@@ -10,7 +10,7 @@
 - [Insight](#Insight)
 - [Excel File](https://docs.google.com/spreadsheets/d/1trgifWN5Ag-CZh9fLO3U9JFPGlrZ8Qm8/edit?usp=sharing&ouid=101727593801684291068&rtpof=true&sd=true
 )
-- [Word Document](https://github.com/madhavyawale7/Healthcare-Analysis/blob/main/Summary%20Report.docx)
+- [Word Document](https://github.com/madhavyawale7/Walmart_Superstore_Retail_Analysis/blob/main/Summary%20Report.docx)
 
 # Introduction:-
 This project focuses on conducting a comprehensive retail analysis of Walmart Superstore's sales and profitability to develop a dynamic dashboard that provides actionable insights for strategic decision-making and operational optimization. The key objectives include identifying key performance indicators (KPIs), analyzing sales and profitability across various dimensions, pinpointing top-performing and underperforming categories, visualizing geographic distribution and market share, understanding the contribution of different sub-categories, evaluating market share by region, and generating category wise metrics.
